@@ -1,0 +1,146 @@
+{
+    "Books": {
+        "1": {
+            "Name": "Metamorphosis",
+            "Autor": "Franz Kafka",
+            "Rented": false
+        },
+        "2": {
+            "Name": "The Alchemist",
+            "Autor": "Paulo Coelho",
+            "Rented": false
+        },
+        "3": {
+            "Name": "Everyone has a story",
+            "Autor": "Savi Sharma",
+            "Rented": false
+        },
+        "4": {
+            "Name": "Dear stranger I know how you feel",
+            "Autor": "Ashish bagrecha",
+            "Rented": false
+        },
+        "5": {
+            "Name": "The Hotel",
+            "Autor": "Team Nicol",
+            "Rented": false
+        },
+        "6": {
+            "Name": "The Trail",
+            "Autor": "Franz Kafka",
+            "Rented": false
+        },
+        "7": {
+            "Name": "The Curfewed Night",
+            "Autor": "Basharat Peer",
+            "Rented": false
+        }
+    },
+    "Users": {
+        "12345": {
+            "Name": "SHERJEEL",
+            "Password": "qwert",
+            "RentedBooks": {},
+            "CreditType": "Special",
+            "BlockedStatus": [],
+            "History": [
+                [
+                    "4",
+                    "19/5/2023",
+                    "19/5/2023"
+                ]
+            ]
+        },
+        "INT00942": {
+            "Name": "SHERJEEL",
+            "Password": "qwert",
+            "RentedBooks": {},
+            "CreditType": "Special",
+            "BlockedStatus": [],
+            "History": []
+        },
+        "INT00943": {
+            "Name": "SHERJEEL AMIN",
+            "Password": "qwerty",
+            "RentedBooks": {},
+            "CreditType": "Normal",
+            "BlockedStatus": [],
+            "History": []
+        },
+        "INT0060": {
+            "Name": "Rupali Priyadarshini",
+            "Password": "Rupali@66",
+            "RentedBooks": {},
+            "CreditType": "Special",
+            "BlockedStatus": [],
+            "History": []
+        },
+        "dsfsdfsd3423": {
+            "Name": "dfsdfsd",
+            "Password": "fdgsd343",
+            "RentedBooks": {},
+            "CreditType": "Special",
+            "BlockedStatus": [],
+            "History": []
+        },
+        "INT00122": {
+            "Name": "SHERJEEL",
+            "Password": "Sharjeel@123",
+            "RentedBooks": {},
+            "CreditType": "Special",
+            "BlockedStatus": [],
+            "History": [
+                [
+                    "7",
+                    "13/2/2023",
+                    "13/2/2023"
+                ],
+                [
+                    "3",
+                    "13/2/2023",
+                    "13/2/2023"
+                ]
+            ]
+        },
+        "INT00992": {
+            "Name": "Rupali P",
+            "Password": "Ssdsdasd",
+            "RentedBooks": {},
+            "CreditType": "Normal",
+            "BlockedStatus": [],
+            "History": []
+        },
+        "002": {
+            "Name": "Rupali P",
+            "Password": "Rupali@16",
+            "RentedBooks": {},
+            "CreditType": "Special",
+            "BlockedStatus": [],
+            "History": [
+                [
+                    "4",
+                    "14/2/2023",
+                    "14/2/2023"
+                ],
+                [
+                    "5",
+                    "14/2/2023",
+                    "14/2/2023"
+                ],
+                [
+                    "7",
+                    "14/2/2023",
+                    "19/2/2023"
+                ]
+            ]
+        },
+        "003": {
+            "Name": "Arham",
+            "Password": "arham",
+            "RentedBooks": {},
+            "CreditType": "Normal",
+            "BlockedStatus": [],
+            "History": []
+        }
+    }
+}
